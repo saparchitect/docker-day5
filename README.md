@@ -34,3 +34,4 @@ Build an app and utilize Github Actions to create a docker based CI/CD process.
 * Add DOCKER_USERNAME and DOCKER_PASSWORD to secrets
 * Cut a new release that will trigger the build and push the image
 * Fix an build failures and try again
+* https://docs.github.com/en/free-pro-team@latest/packages/guides/enabling-improved-container-support#enabling-github-container-registry-for-your-personal-account
