@@ -68,7 +68,7 @@ Build an app and utilize Github Actions to create a docker based CI/CD process.
 
 * Create a new Github project
 
-* Store your personal pat in a [Github Secret](https://docs.github.com/en/free-pro-team@latest/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-a-repository) call `CR_PAT`
+* Store your personal pat in a [Github Secret](https://docs.github.com/en/free-pro-team@latest/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-a-repository) called `CR_PAT`
 
 * Push the contents of this repo into that project
 
