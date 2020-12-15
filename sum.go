@@ -13,5 +13,5 @@ func gaussSum(n int) int {
 }
 
 func sum(n int) int {
-	return gaussSum(n)
+	return 0
 }
